@@ -1,8 +1,9 @@
 //console.log("Hello");
-
-// code ini berfungsi hack nasa
+// berfungsu untuk mendebug atau menampikan hasil coding
 /* simbol untuk komentar sama kaya diatas */
-// console.log("ayo");
+// bisa juga gunakan simbol //
+
+// Variabel merupakan tempat untuk menyimpan nilai
 
 //Nama: "Anjas"
 //Alamat: "Tangerang"
@@ -28,7 +29,7 @@
 //let nama = "Idah";
 //console.log(nama);
 
-//tidak bisa diulang
+//tidak bisa dideklarasi diulang
 //let usia = "55 Tahun";
 //usia = "16 Tahun";
 //console.log(usia);
